@@ -1,6 +1,8 @@
 import cv2
 import numpy as np
 
+#GBR not RGB
+
 lowerBound=np.array([33,80,40])
 upperBound=np.array([102,255,255])
 
